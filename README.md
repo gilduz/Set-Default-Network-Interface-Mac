@@ -13,7 +13,7 @@ sudo privileges needed
 sudo python toggleNetworkInterface.py
 ```
 
-1) select between all network interfaces
+2) select between all network interfaces
 ```
 sudo python switchNetworkInterface.py
 ```
