@@ -10,10 +10,10 @@ sudo privileges needed
 
 1) toggle between the first two preferred network interfaces
 ```
-sudo python toggleNetworkInterface.py
+python toggleNetworkInterface.py
 ```
 
 2) select between all network interfaces
 ```
-sudo python switchNetworkInterface.py
+python switchNetworkInterface.py
 ```
